@@ -1,0 +1,20 @@
+c:\users\arc920\source\repos\WorkshopSelector\WorkshopSelector\bin\Debug\WorkshopSelector.exe.config
+c:\users\arc920\source\repos\WorkshopSelector\WorkshopSelector\bin\Debug\WorkshopSelector.exe
+c:\users\arc920\source\repos\WorkshopSelector\WorkshopSelector\bin\Debug\WorkshopSelector.pdb
+c:\users\arc920\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.csprojResolveAssemblyReference.cache
+c:\users\arc920\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.Form1.resources
+c:\users\arc920\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.Properties.Resources.resources
+c:\users\arc920\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.csproj.GenerateResource.Cache
+c:\users\arc920\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.csproj.CoreCompileInputs.cache
+c:\users\arc920\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.exe
+c:\users\arc920\source\repos\WorkshopSelector\WorkshopSelector\obj\Debug\WorkshopSelector.pdb
+D:\CIS 266\homework\WorkshopSelector\bin\Debug\WorkshopSelector.exe.config
+D:\CIS 266\homework\WorkshopSelector\bin\Debug\WorkshopSelector.exe
+D:\CIS 266\homework\WorkshopSelector\bin\Debug\WorkshopSelector.pdb
+D:\CIS 266\homework\WorkshopSelector\obj\Debug\WorkshopSelector.Form1.resources
+D:\CIS 266\homework\WorkshopSelector\obj\Debug\WorkshopSelector.Properties.Resources.resources
+D:\CIS 266\homework\WorkshopSelector\obj\Debug\WorkshopSelector.csproj.GenerateResource.Cache
+D:\CIS 266\homework\WorkshopSelector\obj\Debug\WorkshopSelector.csproj.CoreCompileInputs.cache
+D:\CIS 266\homework\WorkshopSelector\obj\Debug\WorkshopSelector.exe
+D:\CIS 266\homework\WorkshopSelector\obj\Debug\WorkshopSelector.pdb
+D:\CIS 266\homework\WorkshopSelector\obj\Debug\WorkshopSelector.csprojAssemblyReference.cache
